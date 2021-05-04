@@ -1,0 +1,2 @@
+Invoke-WebRequest -Uri https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat -OutFile C:\Users\yuwen\Desktop\v2rayN\geoip.dat
+Invoke-WebRequest -Uri https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat -OutFile C:\Users\yuwen\Desktop\v2rayN\geosite.dat
